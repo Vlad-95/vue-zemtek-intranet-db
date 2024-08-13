@@ -1,0 +1,245 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "caption": "a title",
+      "date": "2024-01-25T00:00:00.000Z",
+      "city": "Москва",
+      "content": "<p>Какой-то текст</p>"
+    },
+    {
+      "id": "2",
+      "caption": "another title",
+      "date": "2024-01-23T00:00:00.000Z",
+      "city": "Санкт-Петербург",
+      "content": "<p>Какой-то текст</p>"
+    },
+    {
+      "id": "3",
+      "caption": "33333",
+      "date": "2024-02-25T00:00:00.000Z",
+      "city": "Москва",
+      "content": "<p>Какой-то текст</p>"
+    },
+    {
+      "id": "4",
+      "caption": "444444",
+      "date": "2024-02-23T00:00:00.000Z",
+      "city": "Санкт-Петербург",
+      "content": "<p>Какой-то текст</p>"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Иван",
+      "lastName": "Иванов",
+      "middleName": "Иванович",
+      "position": "Заместитель главного бухгалтера",
+      "avatar": "https://via.placeholder.com/150x150",
+      "isNew": true,
+      "birthDate": "1990-02-24T00:00:00.000Z",
+      "honor": true,
+      "honorText": "Свою работу всегда делает первоклассно. Неоднократно выступал с предложениями по обустройству площадки ремонтно-механической мастерской. Проявляет инициативу для обеспечения наименьшего простоя транспорта в ремонте.",
+      "email": "test1@mail.ru"
+    },
+
+    {
+      "id": "2",
+      "firstName": "Алексей",
+      "lastName": "Алексеев",
+      "middleName": "Алексеевич",
+      "position": "Главный бухгалтер",
+      "avatar": "https://via.placeholder.com/150x150",
+      "isNew": true,
+      "birthDate": "1990-02-24T00:00:00.000Z",
+      "honor": false,
+      "honorText": "",
+      "email": "test2@mail.ru"
+    },
+
+    {
+      "id": "3",
+      "firstName": "Дмитрий",
+      "lastName": "Дмитриев",
+      "middleName": "Дмитриевич",
+      "position": "Главный преглавный бухгалтер",
+      "avatar": "https://via.placeholder.com/150x150",
+      "isNew": true,
+      "birthDate": "1990-03-02T00:00:00.000Z",
+      "honor": true,
+      "honorText": "Капитальный красавчик",
+      "email": "test3@mail.ru"
+    },
+    {
+      "id": "4",
+      "firstName": "Владислав",
+      "lastName": "Владиславов",
+      "middleName": "Владиславович",
+      "position": "Главный преглавный",
+      "avatar": "https://via.placeholder.com/150x150",
+      "isNew": false,
+      "birthDate": "1990-02-26T00:00:00.000Z",
+      "honor": true,
+      "honorText": "Капитальный красавчикrrrr",
+      "email": "test4@mail.ru"
+    },
+    {
+      "id": "5",
+      "firstName": "Ярослав",
+      "lastName": "Ярославов",
+      "middleName": "Ярославович",
+      "position": "Главный",
+      "avatar": "https://via.placeholder.com/150x150",
+      "isNew": false,
+      "birthDate": "1990-01-26T00:00:00.000Z",
+      "honor": true,
+      "honorText": "Капитальный",
+      "email": "test5@mail.ru"
+    },
+    {
+      "id": "6",
+      "firstName": "Антон",
+      "lastName": "Антонов",
+      "middleName": "Антонович",
+      "position": "Главный бухгалтер",
+      "avatar": "https://via.placeholder.com/150x150",
+      "isNew": true,
+      "birthDate": "1990-02-24T00:00:00.000Z",
+      "honor": false,
+      "honorText": "",
+      "email": "test6@mail.ru"
+    }
+  ],
+  "cities": [
+    {
+      "id": "1",
+      "name": "Москва",
+      "offset": "+03:00"
+    },
+    {
+      "id": "2",
+      "name": "Санкт-Петербург",
+      "offset": "+03:00"
+    },
+    {
+      "id": "3",
+      "name": "Новосибирск",
+      "offset": "+07:00"
+    },
+    {
+      "id": "4",
+      "name": "Бодайбо",
+      "offset": "+08:00"
+    },
+    {
+      "id": "5",
+      "name": "Губкин",
+      "offset": "+3:00"
+    },
+    {
+      "id": "6",
+      "name": "Красноярск",
+      "offset": "+07:00"
+    },
+    {
+      "id": "7",
+      "name": "Нерюнгри",
+      "offset": "+09:00"
+    },
+    {
+      "id": "8",
+      "name": "Новокузнецк",
+      "offset": "+07:00"
+    },
+    {
+      "id": "9",
+      "name": "Олекминск",
+      "offset": "+09:00"
+    },
+    {
+      "id": "10",
+      "name": "Углегорск",
+      "offset": "+11:00"
+    },
+    {
+      "id": "11",
+      "name": "Удокан",
+      "offset": "+09:00"
+    },
+    {
+      "id": "12",
+      "name": "Хабаровск",
+      "offset": "+10:00"
+    },
+    {
+      "id": "13",
+      "name": "Чита",
+      "offset": "+09:00"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "caption": "День России",
+      "update_date": "2024-06-12T00:00:00.000Z",
+      "end_date": "2024-06-12T00:00:00.000Z",
+      "every_year": 1
+    },
+    {
+      "id": "2",
+      "caption": "Какая-то выставка",
+      "update_date": "2024-06-12T00:00:00.000Z",
+      "end_date": "2024-06-15T00:00:00.000Z",
+      "every_year": 0
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "caption": "Вернинское",
+      "description": "Иркутская область, Бойдайбинский район",
+      "coords": ["62%", "78%"],
+      "params": [
+        {
+          "id": "1",
+          "caption": "Полезные ископаемые",
+          "content": "Золото"
+        },
+        {
+          "id": "2",
+          "caption": "Заказчик",
+          "content": "«Полюс строй»"
+        },
+        {
+          "id": "3",
+          "caption": "Период",
+          "content": "с 2022 года по настоящее время"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "caption": "Гросс",
+      "description": "Республика Саха (Якутия), Олёкминский район",
+      "coords": ["65%", "74%"],
+      "params": [
+        {
+          "id": "1",
+          "caption": "Полезные ископаемые",
+          "content": "Золото"
+        },
+        {
+          "id": "2",
+          "caption": "Заказчик",
+          "content": "«Полюс строй»"
+        },
+        {
+          "id": "3",
+          "caption": "Период",
+          "content": "с 2022 года по настоящее время"
+        }
+      ]
+    }
+  ]
+}
