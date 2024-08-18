@@ -52,7 +52,7 @@
       "position": "Главный бухгалтер",
       "avatar": "https://via.placeholder.com/150x150",
       "isNew": true,
-      "birthDate": "1990-08-25T00:00:00.000Z",
+      "birthDate": "1990-08-18T00:00:00.000Z",
       "honor": false,
       "honorText": "",
       "email": "test2@mail.ru"
@@ -79,7 +79,7 @@
       "position": "Главный преглавный",
       "avatar": "https://via.placeholder.com/150x150",
       "isNew": false,
-      "birthDate": "1990-08-26T00:00:00.000Z",
+      "birthDate": "1990-08-18T00:00:00.000Z",
       "honor": true,
       "honorText": "Капитальный красавчикrrrr",
       "email": "test4@mail.ru"
@@ -92,7 +92,7 @@
       "position": "Главный",
       "avatar": "https://via.placeholder.com/150x150",
       "isNew": false,
-      "birthDate": "1990-08-26T00:00:00.000Z",
+      "birthDate": "1990-08-19T00:00:00.000Z",
       "honor": true,
       "honorText": "Капитальный",
       "email": "test5@mail.ru"
