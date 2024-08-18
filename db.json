@@ -38,7 +38,7 @@
       "position": "Заместитель главного бухгалтера",
       "avatar": "https://via.placeholder.com/150x150",
       "isNew": true,
-      "birthDate": "1990-02-24T00:00:00.000Z",
+      "birthDate": "1990-08-24T00:00:00.000Z",
       "honor": true,
       "honorText": "Свою работу всегда делает первоклассно. Неоднократно выступал с предложениями по обустройству площадки ремонтно-механической мастерской. Проявляет инициативу для обеспечения наименьшего простоя транспорта в ремонте.",
       "email": "test1@mail.ru"
@@ -52,7 +52,7 @@
       "position": "Главный бухгалтер",
       "avatar": "https://via.placeholder.com/150x150",
       "isNew": true,
-      "birthDate": "1990-02-24T00:00:00.000Z",
+      "birthDate": "1990-08-25T00:00:00.000Z",
       "honor": false,
       "honorText": "",
       "email": "test2@mail.ru"
@@ -66,7 +66,7 @@
       "position": "Главный преглавный бухгалтер",
       "avatar": "https://via.placeholder.com/150x150",
       "isNew": true,
-      "birthDate": "1990-03-02T00:00:00.000Z",
+      "birthDate": "1990-08-24T00:00:00.000Z",
       "honor": true,
       "honorText": "Капитальный красавчик",
       "email": "test3@mail.ru"
@@ -79,7 +79,7 @@
       "position": "Главный преглавный",
       "avatar": "https://via.placeholder.com/150x150",
       "isNew": false,
-      "birthDate": "1990-02-26T00:00:00.000Z",
+      "birthDate": "1990-08-26T00:00:00.000Z",
       "honor": true,
       "honorText": "Капитальный красавчикrrrr",
       "email": "test4@mail.ru"
@@ -92,7 +92,7 @@
       "position": "Главный",
       "avatar": "https://via.placeholder.com/150x150",
       "isNew": false,
-      "birthDate": "1990-01-26T00:00:00.000Z",
+      "birthDate": "1990-08-26T00:00:00.000Z",
       "honor": true,
       "honorText": "Капитальный",
       "email": "test5@mail.ru"
@@ -105,7 +105,7 @@
       "position": "Главный бухгалтер",
       "avatar": "https://via.placeholder.com/150x150",
       "isNew": true,
-      "birthDate": "1990-02-24T00:00:00.000Z",
+      "birthDate": "1990-08-24T00:00:00.000Z",
       "honor": false,
       "honorText": "",
       "email": "test6@mail.ru"
